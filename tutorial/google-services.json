@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "83341535163",
+    "firebase_url": "https://music-89f48.firebaseio.com",
+    "project_id": "music-89f48",
+    "storage_bucket": "music-89f48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83341535163:android:f3f194564c6d2f0428c69e",
+        "android_client_info": {
+          "package_name": "com.vybn.vybn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83341535163-qjbuoujulb810igo90utamhamlfu0bib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vybn.vybn",
+            "certificate_hash": "d1a790b354acac9d95b1eddddaf227371551868a"
+          }
+        },
+        {
+          "client_id": "83341535163-p77jj6bmgcikfc36kku7hibm4ouqv53s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7_t_xvUBGyJL-tAP77oP1cn2-DImwEfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83341535163-p77jj6bmgcikfc36kku7hibm4ouqv53s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83341535163-prftudl10n26qateb1iusu4ee5l9vs7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vybn.vybn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
